@@ -1,0 +1,39 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+select{
+  font-size: 40px;
+  
+}
+
+body header{
+  background-color: #00e1ffe7;
+  width: auto;
+  height: 80px;
+  margin-bottom: 5px;
+
+}
+
+header img{
+  width: 50px;
+  align-items: left;
+  margin: 15px 15px;
+  
+}
+
+#visor{
+  width: 200px;
+  height: 40px;
+}
+input{
+  width: 40px;
+  height: 40px;
+}
+
+form{
+  justify-content: center;
+  flex-wrap: nowrap; 
+}
